@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "category": "Indian",
+    "description": "A rich and creamy tomato-based curry with tender chicken pieces, flavored with butter and aromatic spices.",
+    "image": "images/india1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "category": "Indian",
+    "description": "Grilled cottage cheese marinated in yogurt and Indian spices, served with mint chutney.",
+    "image": "images/india2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Biryani",
+    "category": "Indian",
+    "description": "A flavorful rice dish cooked with fragrant spices, saffron, and marinated meat or vegetables.",
+    "image": "images/india3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chole Bhature",
+    "category": "Indian",
+    "description": "A delicious combination of spicy chickpea curry and deep-fried fluffy bread.",
+    "image": "images/indi4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mutton Chuka",
+    "category": "Indian",
+    "description": "A slow-cooked black lentil dish, rich in cream and butter, flavored with Indian spices.",
+    "image": "images/india5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tandoori Chicken",
+    "category": "Indian",
+    "description": "Chicken marinated in yogurt and spices, roasted in a tandoor (clay oven) for a smoky flavor.",
+    "image": "images/indi6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mohinga",
+    "category": "Burmese",
+    "description": "A traditional Burmese rice noodle soup served in a flavorful fish broth with lemongrass and spices.",
+    "image": "images/burmese2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Laphet Thoke",
+    "category": "Burmese",
+    "description": "A famous Burmese tea leaf salad mixed with fermented tea leaves, nuts, and vegetables.",
+    "image": "images/burmese5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Shan Noodles",
+    "category": "Burmese",
+    "description": "Rice noodles served with a flavorful meat-based sauce and garnished with herbs and peanuts.",
+    "image": "images/burmese3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Curry",
+    "category": "Burmese",
+    "description": "A fragrant and mildly spiced chicken curry with coconut milk and local spices.",
+    "image": "images/burmese6.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tofu Nway",
+    "category": "Burmese",
+    "description": "A refreshing salad made with chickpea tofu, garlic, and sesame seeds.",
+    "image": "images/burmese1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Nan Gyi Thoke",
+    "category": "Burmese",
+    "description": "A thick rice noodle salad with chicken curry and a blend of spices.",
+    "image": "images/burmese4.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sweet and Sour Chicken",
+    "category": "Chinese",
+    "description": "Crispy chicken stir-fried with a tangy and sweet sauce, combined with bell peppers and pineapples.",
+    "image": "images/china1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Kung Pao Chicken",
+    "category": "Chinese",
+    "description": "A spicy stir-fried dish with diced chicken, peanuts, vegetables, and chili peppers.",
+    "image": "images/china2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dim Sum",
+    "category": "Chinese",
+    "description": "A variety of bite-sized dumplings and buns, served with dipping sauces and tea.",
+    "image": "images/china3.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Peking Duck",
+    "category": "Chinese",
+    "description": "A famous Beijing dish featuring crispy duck skin and tender meat, served with pancakes and hoisin sauce.",
+    "image": "images/china4.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mapo Tofu",
+    "category": "Chinese",
+    "description": "A spicy Sichuan dish with tofu, ground pork, and a flavorful chili bean sauce.",
+    "image": "images/china5.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Chow Mein",
+    "category": "Chinese",
+    "description": "Stir-fried noodles with vegetables and meat, flavored with soy sauce and garlic.",
+    "image": "images/china6.jpg"
+  }
+]
